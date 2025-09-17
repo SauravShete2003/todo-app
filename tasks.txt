@@ -1,2 +1,3 @@
-go to home
 Complete the python tutorial
+
+complete todays work
